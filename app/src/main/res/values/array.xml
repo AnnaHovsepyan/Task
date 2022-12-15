@@ -1,0 +1,7 @@
+<resources>
+    <array name="arr">
+        <item >Not Sorted</item>
+        <item >0-9</item>
+        <item >9-0</item>
+    </array>
+</resources>

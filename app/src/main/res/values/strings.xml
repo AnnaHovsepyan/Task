@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InConcept Task</string>
+    <string name="sort_by">Sort by age</string>
+</resources>
